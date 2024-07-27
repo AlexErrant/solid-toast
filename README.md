@@ -1,3 +1,7 @@
+# Referencing solid-toast as an NPM package yields weird errors in `hub` that even `pnpm patch` cannot solve.
+
+# So I git-submodule it and the errors go away with no changes. Lol.
+
 <a href="https://github.com/ardeora/solid-toast"><img alt="Solid Toast header image showing a cute toaster with a toast popping out" src="https://github.com/ardeora/solid-toast/raw/main/assets/header.png"/></a>
 
 <div align="center">
